@@ -5,10 +5,12 @@
 /* general text styling */
 body {
     font-family: Quicksand, sans-serif;
+    background-color: #FFE4C4;
 }
 
 h1 {
     font-size: xxx-large;
+    color: #A0522D;
 }
 
 /* quiz container */
@@ -18,8 +20,9 @@ h1 {
     width: 50%;
     height: 50%;
     transform: translate(-50%, -50%);
-    background-color: red;
+    background-color: #DEB887;
     position: fixed;
+    border-radius: 25px;
 }
 
 /* inital name form */
