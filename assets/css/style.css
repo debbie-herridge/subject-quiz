@@ -1,0 +1,29 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+/* general text styling */
+body {
+    font-family: Quicksand, sans-serif;
+}
+
+h1 {
+    font-size: xxx-large;
+}
+
+/* quiz container */
+.container {
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+    transform: translate(-50%, -50%);
+    background-color: red;
+    position: fixed;
+}
+
+/* inital name form */
+form {
+    text-align: center;
+    padding: 20%;
+}
